@@ -1,7 +1,7 @@
 ﻿<p>
 Capturer : "CMOS" { };
 Recorder : "SATA" { };
-Analyzer : "Kernel" { };
+Analyzer : "Kernal" { };
 Viewer : "Plasma" { };
 Flaunter : "VisioVirtual" { };
 </p>
