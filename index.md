@@ -19,8 +19,10 @@
 
 <br>Up! What next?  
 <br>with <3  
-<br>
-<a href="http://twitter.com/itsN1X">
+<br><h2>
+<a href="http://linkedin.com/in/itsN1X">
 <i> n << o << N << e << X </i>
-</a> 
+</a></h2> 
 </html>
+
+
