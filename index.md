@@ -13,9 +13,9 @@
 #### Say h.. what? 
 
 <html>
-<a class="twitter-timeline" data-width="400" data-height="1200" data-theme="dark" data-link-color="#2B7BB9" href="https://twitter.com/itsN1X">Tweets by itsN1X</a>
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark" data-link-color="#E95F28"><p lang="en" dir="ltr">&quot;Life is the only real game we play.<br>Don&#39;t learn the wrong rules, or else you might sabotage your highscore.&quot;</p>&mdash; ∞ Tricks 😈 [ ~N1X ] (@itsN1X) <a href="https://twitter.com/itsN1X/status/834281719545069569">February 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<h4>You like +potatoes, I love .onions</h4><hr><div class="fullscreen-overlay"></div>
+<h4>:// You like +potatoes, I love .onions</h4><hr><div class="fullscreen-overlay"></div>
 
 <br>Up! What next?  
 <br>with <3  
