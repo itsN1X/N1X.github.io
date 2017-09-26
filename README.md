@@ -1,4 +1,1 @@
-# itsN1X.github.io
-
-
-    <h1>lick here to begin [N1X](http://N1X.website)
+# >> [WHY,WHO,HOW,WHAT,WHERE,FSCK AM I HERE](http://github.com/itsN1X)
