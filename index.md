@@ -17,8 +17,5 @@
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <h4>:// You like +pot.at.oes, I love .onion:$</h4><hr><div class="fullscreen-overlay"></div>
 
-<br>Up! What next?  
-<br>with <3  
-<br>
-<code>itsN1X</code><br><hr>
-:<h3>\\<a href="http://linkedin.com/in/itsN1X">IN</a>\<a href="https://N1X.site/">Utero</a>.</h3></html>
+<br>Up! What next?  <br>with <3  
+<br><code>itsN1X</code><br><hr><h3>\\<a href="http://linkedin.com/in/itsN1X">IN</a>\\<a href="https://N1X.site/">Utero</a>.</h3></html>
