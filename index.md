@@ -18,4 +18,4 @@
 <h4>:// You like +pot.at.oes, I love .onion:$</h4><hr><div class="fullscreen-overlay"></div>
 
 <br>Up! What next?  <br>with <3  
-<br><code>itsN1X</code><br><hr><h3>\\<a href="http://linkedin.com/in/itsN1X">I</a>\\<a href="https://N1X.site/">N</a>\\<a href="https://mobile.twitter.com/itsN1X">T</a>.</h3></html>
+<br><code>itsN1X</code><br><hr><h3>\\<a href="http://linkedin.com/in/itsN1X">I</a>\\<a href="https://N1X.site/">N</a>\\<a href="https://mobile.twitter.com/itsN1X">t</a>.</h3></html>
