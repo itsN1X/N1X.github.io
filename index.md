@@ -19,7 +19,6 @@
 
 <br>Up! What next?  
 <br>with <3  
-<br><h2>
+<br>
 <code>itsN1X</code><br><hr>
-<a href="http://linkedin.com/in/itsN1X">IN</a><a href="https://N1X.site/">Utero</a>.</h2> 
-</html>
+:<h3>\\<a href="http://linkedin.com/in/itsN1X">IN</a>\<a href="https://N1X.site/">Utero</a>.</h3></html>
