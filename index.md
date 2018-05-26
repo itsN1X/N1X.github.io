@@ -9,7 +9,7 @@
 # My name is N1X.
 #### I phil math(s) -- `as a learner, ɏ as an earner.`
 ## (X
-#### Say ¡.. , what? 
+#### Say ¡i.. , what`?` 
 
 <html>
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark" data-link-color="#E95F28"><p lang="en" dir="ltr">&quot;Life is the only real game we play.<br>Don&#39;t learn the wrong rules, or else you might sabotage your highscore.&quot;</p>&mdash; ∞ Tricks 😈 [ ~N1X ] (@itsN1X) <a href="https://twitter.com/itsN1X/status/834281719545069569">February 22, 2017</a></blockquote>
