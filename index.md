@@ -7,7 +7,7 @@
 ---
 
 # My name is N1X.
-# `I phil math(s) -- as a learner, ɏ as an earner.`
+## `I phil math(s) -- as a learner, ɏ as an earner.`
 
 ## (X
 
